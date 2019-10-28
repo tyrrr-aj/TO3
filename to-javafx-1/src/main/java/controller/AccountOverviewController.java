@@ -2,12 +2,12 @@ package controller;
 
 import java.math.BigInteger;
 import java.time.LocalDate;
-import java.util.Locale.Category;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import pl.edu.agh.iisg.to.javafx.cw1.model.Account;
+import pl.edu.agh.iisg.to.javafx.cw1.model.Category;
 import pl.edu.agh.iisg.to.javafx.cw1.model.Transaction;
 
 public class AccountOverviewController {
